@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judith-qa
 - 👀 I’m interested in Software testing
-- 🌱 I’m currently learning cypress
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Test Automation
 - 📫 How to reach me ...
 
